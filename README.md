@@ -49,6 +49,11 @@
 
 ---
 
+### 🏆 GitHub Achievements:
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sm71234" alt="sm71234" /></a></p>
+
+---
+
 ### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm71234&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
