@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sankalp Misal</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHpkNmw2NDFyZThvcnNwaWV2ZHRoNHhmMWo1MWU4NmN5aWdoZmRiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" />
+<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHpkNmw2NDFyZThvcnNwaWV2ZHRoNHhmMWo1MWU4NmN5aWdoZmRiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" />
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm71234&label=Profile%20views&color=0e75b6&style=flat" alt="sm71234" /> </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sm71234" alt="sm71234" /></a> </p>
 
 - 🎓 I’m currently in my **final year of Computer Science and Engineering** at **Sanjay Ghodawat University**, Kolhapur.  
